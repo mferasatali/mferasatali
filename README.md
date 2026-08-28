@@ -6,7 +6,20 @@ I ship Vue/Node enterprise platforms with production AI hiring workflows — del
 
 Open to full-time and contract roles. Remote-first from Lahore; experienced delivering fully remote for Abu Dhabi teams.
 
-[Portfolio](https://mferasatali.github.io) · [LinkedIn](https://www.linkedin.com/in/mferasatali) · [Email](mailto:mferasatali@gmail.com) · [Claude Duo](https://github.com/mferasatali/claude-duo)
+[Portfolio](https://mferasatali.github.io) · [LinkedIn](https://www.linkedin.com/in/mferasatali) · [Email](mailto:mferasatali@gmail.com) · [npm](https://www.npmjs.com/~mferasatali)
+
+---
+
+## npm package
+
+I published **[claude-duo](https://www.npmjs.com/package/claude-duo)** — an open-source Windows CLI that opens **two [Claude Code](https://docs.anthropic.com/en/docs/claude-code) sessions** in one window (optional second account).
+
+```bash
+npx claude-duo
+```
+
+[![npm](https://img.shields.io/npm/v/claude-duo.svg)](https://www.npmjs.com/package/claude-duo)
+[![GitHub](https://img.shields.io/badge/GitHub-mferasatali%2Fclaude--duo-181717?logo=github)](https://github.com/mferasatali/claude-duo)
 
 ---
 
@@ -99,7 +112,7 @@ Hospitality / reservation platform with Stripe, PayPal, and Braintree.
 
 | Project | What it is |
 | --- | --- |
-| [claude-duo](https://github.com/mferasatali/claude-duo) | Windows tool: two Claude Code sessions (optional second account) in one Terminal window |
+| [claude-duo](https://www.npmjs.com/package/claude-duo) | **npm package** (`npx claude-duo`) — two Claude Code sessions in one Windows Terminal window |
 | [sql-labs](https://github.com/mferasatali/sql-labs) | Browser Postgres query studio |
 | [change-log-generator](https://github.com/mferasatali/change-log-generator) | Release notes from GitHub tags (SvelteKit) |
 | [anything-log](https://github.com/mferasatali/anything-log) | Logging / developer tooling |
